@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://bryanpeace.com",
+      "permanent": false
+    }
+  ]
+}
